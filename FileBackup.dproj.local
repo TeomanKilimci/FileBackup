@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.802,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Unit2.pas=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\uDosyaYedekleThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Project1.dproj=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Unit1.dfm=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Unit1.pas=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.534,=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Unit2.pas</Transaction>
+    <Transaction>2022.10.31 09:27:25.369,C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\FileBackup.dproj=C:\Users\teoman_kilimci.DESKTOP-5FFD9HC\Documents\Embarcadero\Studio\Projects\GetRecursiveFiles\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
